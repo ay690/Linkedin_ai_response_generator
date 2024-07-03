@@ -21,4 +21,7 @@ See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#l
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 
+https://screenrec.com/share/z0fG8DETUt
+
+
 
